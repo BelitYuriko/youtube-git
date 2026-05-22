@@ -1,0 +1,98 @@
+commit 30e5f93c76ffce52682e326d9f5ecf853784a515
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Thu May 21 14:00:12 2026 -0600
+
+    Agregando 2 párrafos
+
+commit d2b88a63d3917e4d45d8a24d2644fe9fe6f7d317
+Merge: 75e31df f6ea75d
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Thu May 21 13:37:54 2026 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 75e31df81a7b8d0369975bb47a884ca729c75c43
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Thu May 21 12:51:19 2026 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit f6ea75d24512aa9418b5d30dbdfcdc7ab8c68fdd
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Thu May 21 12:51:19 2026 -0600
+
+    Agregando las estaciones del año
+
+commit da9f706b646a209f00b5654968bdecfafdfc93c3
+Merge: 8f3da41 1b8db8a
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Thu May 21 12:20:51 2026 -0600
+
+    Resolviendo clonflicto merge main/hmtl en el documento index.html
+
+commit 1b8db8a3faa4691333f30453543c574b4285812d
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Thu May 21 11:46:05 2026 -0600
+
+    Agregando index.js al index.html
+
+commit 8f3da4148d2c53eb89b628f869cb42e91f8da7d5
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Thu May 21 11:26:08 2026 -0600
+
+    Agreafo style.css al index.html
+
+commit 75c78973108c712c077851c753a2a980787d4e2f
+Merge: b208eb7 95c97ed
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Wed May 20 18:10:16 2026 -0600
+
+    Merge branch 'js'
+
+commit 95c97ed1f83db430568aa47e62221311e4ebb944
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Wed May 20 16:47:34 2026 -0600
+
+    Creando index.js
+
+commit b208eb79711ce8708e71c57fe8f1d86687278118
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Wed May 20 16:24:09 2026 -0600
+
+    Creando style.css
+
+commit bc19b14ceabfaf057f5d970c9a5ba3f9a31de45c
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Wed May 20 14:01:07 2026 -0600
+
+    Creando index.html
+
+commit d800cf864ed0858817b1d21621b07e6fc6affc8d
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Tue May 19 17:48:09 2026 -0600
+
+    Ignorando archivos .exe
+
+commit 60808e85baff63259ff26e987b29797a63f7c47c
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com>
+Date:   Tue May 19 13:07:42 2026 -0600
+
+    Creando licencia del repositorio
+
+commit a4946591e9367d9381a330922a32618789d0ae36
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Tue May 19 12:53:48 2026 -0600
+
+    Agregando más contenido al README
+
+commit 65ededb7794e598cbb11e511602f154031c32bce
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Tue May 19 12:16:30 2026 -0600
+
+    Agregando contenido inical al README
+
+commit 3248b58cfa632f22863a0bc62e4335e47ed2b522
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Tue May 19 12:03:18 2026 -0600
+
+    Primer commit 😊👌
