@@ -1,3 +1,48 @@
+commit ba644fe02b67cac2cc1b00ff23d0592f4742b0e3
+Merge: 2a6e1a1 8ee92cd
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com>
+Date:   Tue May 26 17:12:37 2026 -0600
+
+    Merge pull request #1 from YurikoMaslow/readme-yurikomaslow
+    
+    Readme yurikomaslow
+
+commit 8ee92cdb75d76e4e8247acd6d0870f8a4efa3bfe
+Author: YurikoMaslow <270485361+YurikoMaslow@users.noreply.github.com.>
+Date:   Tue May 26 16:41:40 2026 -0600
+
+    Haciendo mejoras al README del repositorio
+
+commit c6ef7f61808c2d62df675fae858b5442c7482e69
+Author: YurikoMaslow <270485361+YurikoMaslow@users.noreply.github.com.>
+Date:   Tue May 26 12:49:14 2026 -0600
+
+    Cambio de prueba de la segunda cuenta de git
+
+commit 2a6e1a14491cc44e8c3713452eabb7913aba8cdc
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Mon May 25 13:48:24 2026 -0600
+
+    Agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit e17565c686f5c8f9ff4ea4c1f0432762f07caefc
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Mon May 25 12:33:33 2026 -0600
+
+    v1.0.1
+
+commit 1aed1456d77afb2e3a0572fe896e8a1f6ebfaee6
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Mon May 25 12:01:48 2026 -0600
+
+    v1.0.0
+
+commit 242f19f53e6b2cf179a559a236bb8c4e1dd3942f
+Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
+Date:   Fri May 22 11:39:39 2026 -0600
+
+    Respaldando logs del repositorio
+
 commit 30e5f93c76ffce52682e326d9f5ecf853784a515
 Author: BelitYuriko <282366680+BelitYuriko@users.noreply.github.com.>
 Date:   Thu May 21 14:00:12 2026 -0600
